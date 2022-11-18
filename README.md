@@ -11,3 +11,4 @@
 - Desenhando com o mouse e mudando a cor com uma paleta de cores mais sofiticada
 - Bolinha que se movimenta para frente e para traz
 - Jogo de acertar o alvo
+- Bolinha que se movimenta com as setas do teclado
